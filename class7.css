@@ -1,0 +1,60 @@
+.container{
+    height: 550px;
+    width: 600px;
+    background: #000;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 50px;
+    color: white;
+}
+.part-1{
+    height: 120px;
+    width: 100%;
+    border: 3px solid lime;
+    text-align: center;
+    margin-top: -14px;
+    
+}
+h1{
+    margin-top: 45px;
+}
+.part-2{
+    height: 300px;
+    width: 100%;
+    
+    margin-top: 10px;
+    margin-right:3px;
+}
+.part-2 .row-1{
+    height: 100%;
+    width: 125px;
+    border: 3px solid red;
+    float: left;
+    margin-right: 10px;
+}
+.part-2 .row-2{
+    height: 100%;
+    width: 312px;
+    border: 3px solid red;
+    float: left;
+    margin-right: 10px;
+}
+.part-2 .row-3{
+    height: 100%;
+    width: 125px;
+    border: 3px solid red;
+    float: left;
+    
+}
+.part-3{
+    height: 120px;
+    width: 100%;
+    border: 3px solid lime;
+    text-align: center;
+    margin-top: 20px;
+}
+h2{
+    text-align: center;
+    margin-top: 140px;
+    font-size: 27px
+}
